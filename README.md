@@ -48,7 +48,7 @@ bnpp_airflow/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/etl_project.git
+git clone [https://github.com/your-username/etl_project.git](https://github.com/MoussaDevData/airflow_etl.git)
 cd etl_project
 ```
 ### Step 2: Set Up Environment Variables
